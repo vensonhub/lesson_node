@@ -4,5 +4,3 @@ Thumbs.db
 # for IDEA
 */build/*
 .idea/*
-*.iml
-/out/*
